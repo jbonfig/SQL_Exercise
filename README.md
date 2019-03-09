@@ -1,2 +1,3 @@
 # SQL_Exercise
-SQL Exercises
+SQL Query Examples
+
